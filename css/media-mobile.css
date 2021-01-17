@@ -1,0 +1,29 @@
+@media (max-width: 490px) {
+  .phones-wrapper {
+    height: 30em;
+    padding-bottom: 40%;
+    margin: -7em -2em 0 -3em;
+  }
+
+  .app-store-content {
+    width: 98%;
+    padding: 3em 0;
+  }
+  
+  .buttons-bottom {
+    width: 80%;
+  }
+
+  .btn-bottom {
+    flex: 0 0.1 40%;
+    padding:5px 3px;
+  }
+
+  .btn-bottom:nth-child(even) {
+    flex: 0 0.1 50%;
+  }
+  .socials {
+    width: 80%;
+  }
+ 
+}
